@@ -1,0 +1,7 @@
+data/
+models/
+.ipynb_checkpoints/
+.idea/
+*.jpg
+tensorboard_dir/
+**/__pycache__/
