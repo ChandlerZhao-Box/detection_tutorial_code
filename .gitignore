@@ -5,3 +5,4 @@ models/
 *.jpg
 tensorboard_dir/
 **/__pycache__/
+weights/
